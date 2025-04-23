@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Front-End | Ciência da Computação`**
 
-👋 Olá! Sou **Kauã Pimentel**, **19 anos**, natural do **Rio de Janeiro**. Atualmente, sou aluno de **Ciência da Computação** e apaixonado por tecnologia e desenvolvimento web. Meu objetivo é transformar ideias criativas em soluções digitais inovadoras. Estou sempre em busca de aprender e compartilhar meu conhecimento, seja com código ou conteúdo.
+Olá! Sou **Kauã Pimentel**, **19 anos**, do **Rio de Janeiro**, estudante de **Ciência da Computação** e apaixonado por desenvolvimento web. Busco transformar ideias em soluções digitais criativas com tecnologias modernas.
 
-🔗 Me siga nas redes sociais para mais atualizações sobre meus projetos e aprendizados:
+🔗 Me acompanhe nas redes:
 <p align="left">
     <a href="https://www.instagram.com/devkauapimentel" target="_blank">
         <img 
@@ -24,129 +24,59 @@
 
 ---
 
-### 🛠️ Tecnologias que estou aprendendo e utilizando atualmente
-
-Sou um entusiasta do **Desenvolvimento Web**, com foco nas tecnologias modernas que estão em alta. Confira as principais ferramentas e linguagens com as quais estou trabalhando:
+### 🛠️ Tecnologias que utilizo
 
 <img 
-    align="left" 
-    alt="HTML" 
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+    align="left" alt="HTML" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img 
-    align="left" 
-    alt="CSS" 
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+    align="left" alt="CSS" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+    align="left" alt="JavaScript" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img 
-    align="left" 
-    alt="React" 
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+    align="left" alt="React" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
+    align="left" alt="Node.js" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img 
-    align="left" 
-    alt="Tailwind CSS" 
-    title="Tailwind CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+    align="left" alt="Tailwind" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    align="left" alt="Git" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+    align="left" alt="GitHub" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img 
-    align="left" 
-    alt="VS Code" 
-    title="VS Code" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
+    align="left" alt="VS Code" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ---
 
-### 🌱 Atualmente estou aprendendo
+### 🌱 Atualmente aprendendo
 
-- **Next.js**: Framework para React, otimizando aplicações com Server-Side Rendering e Static Site Generation.
-- **MongoDB**: Banco de dados NoSQL, muito utilizado em projetos modernos com Node.js.
-- **Docker**: Containerização de aplicações, aprendendo a construir ambientes de desenvolvimento eficientes.
+- **Next.js** – React com foco em performance
+- **MongoDB** – Banco de dados NoSQL moderno
+- **Docker** – Ambientes isolados para desenvolvimento
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
-Confira um pouco do meu progresso e das tecnologias que mais utilizo no meu GitHub!
-
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="Estatísticas do GitHub de Kauã" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=devkauapimentel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=devkauapimentel&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&hide_rank=true&custom_title=Estatísticas"
+    width="47%" 
+    alt="Estatísticas do GitHub"
   />
-  
   <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkauapimentel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkauapimentel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    width="47%" 
+    alt="Linguagens mais usadas"
   />
 </p>
 
 ---
 
-### 🚀 Projetos em destaque
+### 💬 Vamos nos conectar!
 
-- **[Portfolio Pessoal](https://github.com/devkauapimentel/portfolio)**: Meu portfólio pessoal, onde mostro alguns dos meus projetos mais recentes.
-- **[Projeto de E-commerce com React](https://github.com/devkauapimentel/e-commerce-react)**: Um e-commerce completo utilizando React, Node.js e MongoDB.
-- **[Desafio de Layout com Tailwind](https://github.com/devkauapimentel/tailwind-layout-challenge)**: Um repositório com desafios de design utilizando Tailwind CSS.
-
----
-
-### 📈 Como você pode me ajudar
-
-Se você curte o que estou criando, ficarei muito feliz se me seguir aqui no GitHub ou se contribuir com meus projetos! Qualquer feedback ou sugestão é muito bem-vindo. 😄
+Se você curtiu meu perfil ou tem alguma sugestão, me mande uma mensagem ou me siga aqui no GitHub!
 
 <p align="left">
     <a href="https://github.com/devkauapimentel?tab=followers">
