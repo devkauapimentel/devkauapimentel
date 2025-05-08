@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End | Ciência da Computação`**
 
-Olá! Sou **Kauã Pimentel**, **19 anos**, do **Rio de Janeiro**, estudante de **Ciência da Computação** e apaixonado por desenvolvimento web. Busco transformar ideias em soluções digitais criativas com tecnologias modernas.
+Olá! Sou **Kauã Pimentel**, **19 anos**, do **Rio de Janeiro**, estudante de **Engenharia de Software** e apaixonado por desenvolvimento web. Busco transformar ideias em soluções digitais criativas com tecnologias modernas.
 
 🔗 Me acompanhe nas redes:
 <p align="left">
