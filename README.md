@@ -6,38 +6,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack;Construindo+SPAs+de+Alto+Padr%C3%A3o;Foco+em+C%C3%B3digo+Limpo+e+Escal%C3%A1vel;Rumo+aos+42km+na+Maratona!" alt="Typing SVG" />
 </a>
 
-</div>
-
 **`Desenvolvedor Fullstack | Rumo à Arquitetura de Sistemas`**
 
 Meu objetivo não é apenas escrever código, mas sim **entender negócios e criar soluções completas de ponta a ponta**. Unindo tecnologia, comunicação e estratégia, busco me tornar um Arquiteto de Software capaz de desenhar e implementar sistemas seguros, escaláveis e que resolvem problemas reais.
 
 <br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/devkauapimentel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Devkauapimentel" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/devkauapimentel" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@devkauapimentel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/devkauapimentel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/Devkauapimentel" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/devkauapimentel" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@devkauapimentel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 </div>
 
 ---
 
-### 🏆 Projeto em Destaque
-
-<table width="100%">
-  <tr>
-    <td>
-      <h3>⚔️ EsteticaFlow Ultra 4.0</h3>
-      <i>Status: 🟢 Em Produção (Proprietário) | Stack: React, TypeScript, Tailwind, Vite, Supabase</i>
-      <br><br>
-      SPA Mobile-First focada em gestão de alto padrão para clínicas de estética premium. Fui responsável pela <b>arquitetura e desenvolvimento do zero</b>, implementando soluções complexas de negócio:
-      <br><br>
-      ✦ <b>Smart Agenda:</b> Lógica pesada de validação de horários e bloqueios em tempo real.<br>
-      ✦ <b>Retenção Autônoma:</b> Recuperação de pacientes inativos via WhatsApp.<br>
-      ✦ <b>Gestão de Permissões:</b> Controle de acesso (RBAC) e painel administrativo dinâmico.
-    </td>
-  </tr>
-</table>
+### 🏆 Projeto em Destaque: EsteticaFlow Ultra 4.0
+> **Status:** 🟢 Em Produção (Sistema Proprietário) | **Stack:** React, TypeScript, Tailwind, Vite, Supabase
+> 
+> SPA Mobile-First focada em gestão de alto padrão para clínicas de estética premium. Fui responsável pela **arquitetura e desenvolvimento do zero**, implementando:
+> * **Smart Agenda:** Lógica complexa de validação e bloqueios em tempo real.
+> * **Retenção Autônoma:** Recuperação de pacientes inativos via WhatsApp.
+> * **Gestão de Permissões:** Controle de acesso por níveis de usuário e painel administrativo dinâmico.
 
 ---
 
@@ -64,9 +53,10 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
 
 <div align="center">
 
-### 🏆 Conquistas e Constância
+### 📊 Estatísticas e Constância
 
-<img src="https://github-profile-trophy.vercel.app/?username=devkauapimentel&theme=tokyonight&no-bg=true&margin-w=20&rank=SSS,SS,S,A,B" width="100%" alt="GitHub Trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=devkauapimentel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devkauapimentel&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 
 ---
 
