@@ -51,11 +51,14 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
 
 <div align="center">
 
+<div align="center">
+
 ### 📊 Estatísticas e Constância
 
-<img src="https://github-profile-trophy.vercel.app/?username=devkauapimentel&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devkauapimentel&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkauapimentel&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkauapimentel&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
 
 ---
 
