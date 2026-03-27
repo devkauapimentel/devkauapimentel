@@ -6,21 +6,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack;Construindo+Solu%C3%A7%C3%B5es+Escal%C3%A1veis;Foco+em+C%C3%B3digo+Limpo+e+Performance;Rumo+aos+42km+na+Maratona!" alt="Typing SVG" />
 </a>
 
+**`Desenvolvedor Fullstack | Rumo à Arquitetura de Sistemas`**
+
+Meu objetivo não é apenas escrever código, mas sim **entender negócios e criar soluções completas de ponta a ponta**. Unindo tecnologia, comunicação e estratégia, busco me tornar um Arquiteto de Software capaz de desenhar e implementar sistemas seguros, escaláveis e que resolvem problemas reais.
+
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/devkauapimentel/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Devkauapimentel" target="_blank">
     <img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/devkauapimentel" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
-**`Desenvolvedor Fullstack | Rumo à Arquitetura de Sistemas`**
-
-Meu objetivo não é apenas escrever código, mas sim **entender negócios e criar soluções completas de ponta a ponta**. Unindo tecnologia, comunicação e estratégia, busco me tornar um Arquiteto de Software capaz de desenhar e implementar sistemas seguros, escaláveis e que resolvem problemas reais.
 
 </div>
 
@@ -78,6 +80,15 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
 - 💼 **Visão de Negócio:** Estudo vendas, persuasão e tráfego pago. Entendo que o código é o motor, mas a venda é o combustível.
 - 🌌 **Fascínio Lógico:** Sou apaixonado por física, matemática, astronomia e ficção científica.
 - 🎲 **Comunicação:** Amo ensinar o que aprendo, debater ideias inovadoras e me reunir com amigos para jogar RPG ou jogos de tabuleiro.
+
+---
+
+### 📊 Estatísticas e Constância
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkauapimentel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkauapimentel&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
 
 ---
 
