@@ -3,14 +3,20 @@
 # Olá, eu sou o Kauã Pimentel! 👨🏻‍💻🌌
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Front-End+e+Fullstack;Construindo+SPAs+de+Alto+Padr%C3%A3o;Foco+em+C%C3%B3digo+Limpo+e+Escal%C3%A1vel;Rumo+aos+42km+na+Maratona!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack;Construindo+SPAs+de+Alto+Padr%C3%A3o;Foco+em+C%C3%B3digo+Limpo+e+Escal%C3%A1vel;Rumo+aos+42km+na+Maratona!" alt="Typing SVG" />
 </a>
 
+**`Desenvolvedor Fullstack | Rumo à Arquitetura de Sistemas`**
+
+Meu objetivo não é apenas escrever código, mas sim **entender negócios e criar soluções completas de ponta a ponta**. Unindo tecnologia, comunicação e estratégia, busco me tornar um Arquiteto de Software capaz de desenhar e implementar sistemas seguros, escaláveis e que resolvem problemas reais.
+
+<br>
+
+<a href="https://www.linkedin.com/in/devkauapimentel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/Devkauapimentel" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/devkauapimentel" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@devkauapimentel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 </div>
-
-**`Desenvolvedor Front-End/Fullstack | Rumo à Arquitetura de Sistemas`**
-
-Meu objetivo não é apenas escrever código, mas sim **entender negócios e criar soluções completas de ponta a ponta**. Unindo tecnologia, comunicação e estratégia, busco me tornar um Arquiteto de Software capaz de desenhar e implementar sistemas escaláveis e que resolvem problemas reais.
 
 ---
 
@@ -46,7 +52,7 @@ Meu objetivo não é apenas escrever código, mas sim **entender negócios e cri
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -66,8 +72,8 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
 
 ### 📊 Estatísticas e Constância
 
-<img src="https://github-readme-stats.vercel.app/api?username=devkauapimentel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" height="150" alt="Estatísticas" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devkauapimentel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=devkauapimentel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devkauapimentel&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 
 ---
 
@@ -78,18 +84,5 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devkauapimentel/devkauapimentel/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/devkauapimentel/devkauapimentel/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-**Vamos falar sobre código, negócios ou astrofísica? Me chame:**<br><br>
-<a href="https://www.linkedin.com/in/devkauapimentel/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/Devkauapimentel" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/devkauapimentel" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/@devkauapimentel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 </div>
