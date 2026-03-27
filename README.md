@@ -3,31 +3,31 @@
 # Olá, eu sou o Kauã Pimentel! 👨🏻‍💻🌌
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=800&lines=Engenharia+de+Software+%7C+Front-End;Vis%C3%A3o+de+Neg%C3%B3cios,+Vendas+e+Estrat%C3%A9gia;Construindo+sistemas+que+resolvem+problemas+reais;Rumo+aos+42km+na+Maratona!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack;Vis%C3%A3o+de+Neg%C3%B3cios+e+Estrat%C3%A9gia;Comunica%C3%A7%C3%A3o+Clara+e+Persuasiva;Construindo+Solu%C3%A7%C3%B5es+Escal%C3%A1veis;Rumo+aos+42km+na+Maratona!" alt="Typing SVG" />
 </a>
 
-**`Estudante de Eng. de Software | Rumo à Arquitetura de Sistemas`**
+**`Desenvolvedor Fullstack | Rumo à Arquitetura de Sistemas`**
 
-Sou de Duque de Caxias (RJ) e meu objetivo não é apenas escrever código, mas sim **entender negócios e criar soluções**. Unindo tecnologia com estratégia, busco me tornar um Arquiteto de Software completo, dominando desde o Front-End até a Infraestrutura e Linguagens de Baixo Nível.
+Meu objetivo não é apenas escrever código, mas sim **entender negócios e criar soluções completas de ponta a ponta**. Unindo tecnologia, comunicação e estratégia, busco me tornar um Arquiteto de Software capaz de desenhar e implementar sistemas seguros, escaláveis e que resolvem problemas reais.
 
 </div>
 
 ---
 
-### 🏆 Projeto em Destaque: Agenda Completa para Clínica de Estética
-> **Status:** 🟢 Em Produção
+### 🏆 Projeto em Destaque: EsteticaFlow
+> **Status:** 🟢 Em Produção (Repositório Privado/Proprietário)
 > 
-> Desenvolvi um sistema completo de agendamento do zero, resolvendo um problema real de negócios. Esse projeto me ensinou a pensar na experiência do usuário final, nas regras de negócio da clínica e na confiabilidade de um sistema que não pode falhar no dia a dia. *(Confira no meu repositório fixado!)*
+> Sistema completo de agendamento e gestão desenvolvido do zero para uma clínica de estética. Por ser um software proprietário rodando em ambiente real, o código é fechado, mas o impacto não: o sistema lida com regras de negócio complexas de agenda, gestão de clientes e confiabilidade de dados. Uma verdadeira prova de fogo de desenvolvimento Fullstack focado na experiência do usuário final e no lucro do negócio.
 
 ---
 
 ### 🚀 Sobre mim (Além do Código)
 
-Acredito que um bom engenheiro precisa ter repertório. Quando não estou codando ou estudando arquitetura de sistemas:
-- 🏃‍♂️ **Disciplina:** Treino pesado para correr uma **maratona de 42km** e jogo xadrez (estratégia e longo prazo).
-- 💼 **Visão Global:** Estudo vendas, persuasão e tráfego pago. Entendo que o código serve para alavancar negócios.
-- 🌌 **Fascínio:** Sou apaixonado por astronomia, astrofísica, matemática e o universo da Ficção Científica.
-- 🎲 **Descompressão:** Amo ensinar o que aprendo, conversar sobre ideias inovadoras, jogar RPG e jogos de tabuleiro.
+Acredito que um bom engenheiro precisa ter repertório. Quando não estou codando ou desenhando arquiteturas:
+- 🏃‍♂️ **Disciplina e Foco:** Treino pesado para correr uma **maratona de 42km** e jogo xadrez.
+- 💼 **Visão de Negócio:** Estudo vendas, persuasão e tráfego pago. Entendo que o código é o motor, mas a venda é o combustível.
+- 🌌 **Fascínio Lógico:** Sou apaixonado por física, matemática, astronomia e ficção científica.
+- 🎲 **Comunicação:** Amo ensinar o que aprendo, debater ideias inovadoras e me reunir para jogar RPG ou jogos de tabuleiro.
 
 ---
 
@@ -39,21 +39,23 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm" />
-  <img src="https://img.shields.io/badge/Zed-222222?style=for-the-badge&logo=zed&logoColor=white" alt="Zed" />
+  <img src="https://img.shields.io/badge/Zed_IDE-222222?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Zed" />
 </div>
 
-### 📚 Rumo à Arquitetura (O que estou aprendendo)
+### 📚 Expandindo a Stack (O que estou aprendendo)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
