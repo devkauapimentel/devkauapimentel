@@ -6,34 +6,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack;Construindo+Solu%C3%A7%C3%B5es+Escal%C3%A1veis;Foco+em+C%C3%B3digo+Limpo+e+Performance;Rumo+aos+42km+na+Maratona!" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/devkauapimentel/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Devkauapimentel" target="_blank">
-    <img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/devkauapimentel" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+</div>
 
 **`Desenvolvedor Fullstack | Rumo à Arquitetura de Sistemas`**
 
 Meu objetivo não é apenas escrever código, mas sim **entender negócios e criar soluções completas de ponta a ponta**. Unindo tecnologia, comunicação e estratégia, busco me tornar um Arquiteto de Software capaz de desenhar e implementar sistemas seguros, escaláveis e que resolvem problemas reais.
 
-</div>
-
 ---
 
 ### 🏆 Projeto em Destaque: EsteticaFlow Ultra 4.0
 
-**Status:** Em Produção (Sistema Proprietário) | **Stack:** React, TypeScript, Tailwind, Vite, Supabase
+🟢 **Status:** Em Produção (Sistema Proprietário) 
+💻 **Stack Principal:** React, TypeScript, Tailwind, Vite, Supabase
 
-Arquitetura e desenvolvimento do absoluto zero de uma SPA Mobile-First para clínicas de estética premium. Foco central na resolução de dores complexas de negócio:
-- **Smart Agenda:** Validação de horários e lógica de bloqueios simultâneos em tempo real.
-- **Retenção Autônoma (CRM):** Identificação de pacientes inativos e fluxos de recuperação diretos.
-- **Segurança Enterprise:** Controle rigoroso de acesso (RBAC) e registro imutável de logs de auditoria.
+Desenvolvi do absoluto zero a arquitetura e a interface de uma SPA Mobile-First focada em gestão de alto padrão para clínicas de estética premium. Não é um sistema comum; ele resolve dores complexas do mundo real:
+
+* 📅 **Smart Agenda:** Lógica pesada de validação de horários e bloqueios em tempo real.
+* 🤖 **Retenção Autônoma (CRM):** Módulo inteligente que detecta pacientes inativos e dispara fluxos de recuperação via WhatsApp.
+* 🔐 **Segurança e Auditoria:** Controle rigoroso de acesso (RBAC) por nível de funcionário e registro de logs invisíveis para a gerência.
 
 ---
 
@@ -81,6 +71,15 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
 
 ---
 
+### 📊 Estatísticas e Constância
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devkauapimentel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkauapimentel&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🐍 Minhas Contribuições
 
 <p align="center">
@@ -89,4 +88,19 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devkauapimentel/devkauapimentel/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/devkauapimentel/devkauapimentel/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+---
+
+<p align="left">
+  <strong>Vamos falar sobre código, negócios ou astrofísica? Me chame:</strong><br><br>
+  <a href="https://www.linkedin.com/in/devkauapimentel/" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Devkauapimentel" target="_blank">
+      <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/devkauapimentel" target="_blank">
+      <img alt="Instagram" src="https://img.shields.io/badge/@devkauapimentel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
