@@ -3,24 +3,24 @@
 # Olá, eu sou o Kauã Pimentel! 👨🏻‍💻🌌
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=800&lines=Arquiteto+de+Solu%C3%A7%C3%B5es+Fullstack;Especialista+em+Regras+de+Neg%C3%B3cio+e+CRM;Construindo+SPAs+de+Alto+Padr%C3%A3o;Foco+em+Seguran%C3%A7a,+Auditoria+e+Escalabilidade;Rumo+aos+42km+na+Maratona!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Front-End+e+Fullstack;Construindo+SPAs+de+Alto+Padr%C3%A3o;Foco+em+C%C3%B3digo+Limpo+e+Escal%C3%A1vel;Rumo+aos+42km+na+Maratona!" alt="Typing SVG" />
 </a>
 
 </div>
 
 **`Desenvolvedor Front-End/Fullstack | Rumo à Arquitetura de Sistemas`**
 
-Meu objetivo não é apenas escrever código, mas sim **entender negócios e criar soluções completas de ponta a ponta**. Unindo tecnologia, comunicação e estratégia, busco me tornar um Arquiteto de Software capaz de desenhar e implementar sistemas seguros, escaláveis e que resolvem problemas reais.
+Meu objetivo não é apenas escrever código, mas sim **entender negócios e criar soluções completas de ponta a ponta**. Unindo tecnologia, comunicação e estratégia, busco me tornar um Arquiteto de Software capaz de desenhar e implementar sistemas escaláveis e que resolvem problemas reais.
 
 ---
 
 ### 🏆 Projeto em Destaque: EsteticaFlow Ultra 4.0
-> **Status:** 🟢 Em Produção (Sistema Proprietário) | **Stack:** React 19, TypeScript, Tailwind, Vite, Supabase
+> **Status:** 🟢 Em Produção (Sistema Proprietário) | **Stack:** React, TypeScript, Tailwind, Vite, Supabase
 > 
 > SPA Mobile-First focada em gestão de alto padrão para clínicas de estética premium. Fui responsável pela **arquitetura e desenvolvimento do zero**, implementando:
 > * **Smart Agenda:** Lógica complexa de validação e bloqueios em tempo real.
-> * **CRM Autônomo:** Recuperação de pacientes inativos via WhatsApp.
-> * **Segurança Enterprise:** Controle de acesso (RBAC) e *Audit Logs* imutáveis.
+> * **Retenção Autônoma:** Recuperação de pacientes inativos via WhatsApp.
+> * **Gestão de Permissões:** Controle de acesso por níveis de usuário e painel administrativo dinâmico.
 
 ---
 
@@ -34,10 +34,10 @@ Meu objetivo não é apenas escrever código, mas sim **entender negócios e cri
 ![Zed IDE](https://img.shields.io/badge/Zed_IDE-222222?style=for-the-badge&logoColor=white)
 
 ### 🌱 Foco Atual (O que estou aplicando e aprendendo)
-![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite 6](https://img.shields.io/badge/Vite_6-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🏗️ Rumo à Arquitetura (O que preciso dominar no futuro)
@@ -66,8 +66,8 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
 
 ### 📊 Estatísticas e Constância
 
-<img src="https://github-readme-stats.vercel.app/api?username=devkauapimentel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devkauapimentel&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=devkauapimentel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" height="150" alt="Estatísticas" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devkauapimentel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="Streak" />
 
 ---
 
@@ -84,6 +84,9 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
 **Vamos falar sobre código, negócios ou astrofísica? Me chame:**<br><br>
 <a href="https://www.linkedin.com/in/devkauapimentel/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/Devkauapimentel" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/devkauapimentel" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/@devkauapimentel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
