@@ -53,10 +53,12 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
 
 <div align="center">
 
+<div align="center">
+
 ### 📊 Estatísticas e Constância
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkauapimentel&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devkauapimentel&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkauapimentel&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
 
@@ -69,5 +71,7 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devkauapimentel/devkauapimentel/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/devkauapimentel/devkauapimentel/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
 
 </div>
