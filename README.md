@@ -12,16 +12,24 @@ Meu objetivo não é apenas escrever código, mas sim **entender negócios e cri
 
 <br>
 
-<a href="https://www.linkedin.com/in/devkauapimentel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/Devkauapimentel" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/devkauapimentel" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@devkauapimentel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/devkauapimentel/" target="_blank"><img alt="LinkedIn" src="./linkedin-badge.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/Devkauapimentel" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/devkauapimentel" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@devkauapimentel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
 ---
 
 ### 🏆 Projeto em Destaque: EsteticaFlow Ultra 4.0
-> **Status:** 🟢 Em Produção (Sistema Proprietário) | **Stack:** React, TypeScript, Tailwind, Vite, Supabase
-> 
-> SPA Mobile-First focada em gestão de alto padrão para clínicas de estética premium. Fui responsável pela **arquitetura e desenvolvimento do zero**, implementando:
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Status-🟢_Em_Produção_(Sistema_Proprietário)-31F27B?style=flat-square&labelColor=31F27B" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+</div>
+
+> SPA Mobile-First focada em gestão de alto padrão para clínicas de estética premium. Fui responsável pela arquitetura e desenvolvimento do zero, implementando:
 > * **Smart Agenda:** Lógica complexa de validação e bloqueios em tempo real.
 > * **Retenção Autônoma:** Recuperação de pacientes inativos via WhatsApp.
 > * **Gestão de Permissões:** Controle de acesso por níveis de usuário e painel administrativo dinâmico.
@@ -29,13 +37,35 @@ Meu objetivo não é apenas escrever código, mas sim **entender negócios e cri
 ---
 
 ### 🛠️ Minha Base Sólida (O que eu domino)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white) ![Zed IDE](https://img.shields.io/badge/Zed_IDE-222222?style=for-the-badge&logoColor=white)
+<p align="left">
+  <img align="center" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> &nbsp;
+  <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> &nbsp;
+  <img align="center" alt="Supabase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"> &nbsp;
+  <img align="center" alt="VS Code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"> &nbsp;
+  <img align="center" alt="WebStorm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg"> &nbsp;
+  <img align="center" alt="Zed IDE" height="50" width="50" src="./zed.svg">
+</p>
 
 ### 🌱 Foco Atual (O que estou aplicando e aprendendo)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p align="left">
+  <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> &nbsp;
+  <img align="center" alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> &nbsp;
+  <img align="center" alt="Tailwind CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> &nbsp;
+  <img align="center" alt="Vite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"> &nbsp;
+  <img align="center" alt="Node.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+</p>
 
 ### 🏗️ Rumo à Arquitetura (O que irei dominar no futuro)
-![Git Profundo](https://img.shields.io/badge/Git_Profundo-F05032?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p align="left">
+  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> &nbsp;
+  <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"> &nbsp;
+  <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> &nbsp;
+  <img align="center" alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"> &nbsp;
+  <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"> &nbsp;
+  <img align="center" alt="AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> &nbsp;
+  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> &nbsp;
+  <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+</p>
 
 ---
 
@@ -51,13 +81,11 @@ Acredito que um bom engenheiro precisa ter repertório. Quando não estou codand
 
 <div align="center">
 
-<div align="center">
-
 ### 📊 Estatísticas e Constância
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devkauapimentel&theme=tokyonight" height="150" alt="Linguagens Mais Usadas" />
-  
+  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkauapimentel&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
 
