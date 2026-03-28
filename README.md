@@ -21,7 +21,7 @@ Meu objetivo não é apenas escrever código, mas sim **entender negócios e cri
 ### 🏆 Projeto em Destaque: EsteticaFlow Ultra 4.0
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Status-🟢_Em_Produção_(Sistema_Proprietário)-31F27B?style=flat-square&labelColor=31F27B" />
+  <img src="https://img.shields.io/badge/Status: 🟢_Em_Produção_(Sistema_Proprietário)-1f7f15?style=flat-square&labelColor=1f7f15" />
   <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
