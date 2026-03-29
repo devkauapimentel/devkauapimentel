@@ -12,21 +12,22 @@ Meu objetivo não é apenas escrever código, mas sim **entender negócios e cri
 
 <br>
 
-<a href="https://www.linkedin.com/in/devkauapimentel/" target="_blank"><img alt="LinkedIn" src="./linkedin-badge.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/Devkauapimentel" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/devkauapimentel" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@devkauapimentel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/devkauapimentel/" target="_blank"><img alt="LinkedIn" src="./linkedin-badge.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/Devkauapimentel" target="_blank"><img alt="X" src="https://img.shields.io/badge/DEVKAUAPIMENTEL-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/devkauapimentel" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@devkauapimentel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
+
 
 ---
 
 ### 🏆 Projeto em Destaque: EsteticaFlow Ultra 4.0
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Status: 🟢_Em_Produção_(Sistema_Proprietário)-1f7f15?style=flat-square&labelColor=1f7f15" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status: 🟢_Em_Produção_(Sistema_Proprietário)-1f7f15?style=flat-rounded&labelColor=1f7f15" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-rounded&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-rounded&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-rounded&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-rounded&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-rounded&logo=supabase&logoColor=white" />
 </div>
 
 > SPA Mobile-First focada em gestão de alto padrão para clínicas de estética premium. Fui responsável pela arquitetura e desenvolvimento do zero, implementando:
