@@ -39,6 +39,7 @@ Meu objetivo não é apenas escrever código, mas sim **entender negócios e cri
 
 ### 🛠️ Minha Base Sólida (O que eu domino)
 <p align="left">
+  <img align="center" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> &nbsp;
   <img align="center" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> &nbsp;
   <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> &nbsp;
   <img align="center" alt="Supabase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"> &nbsp;
