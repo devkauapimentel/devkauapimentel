@@ -1,3 +1,8 @@
+<div align="right">
+  <a href="README-pt.md"><img alt="Ler em Português" src="https://img.shields.io/badge/🇧🇷_Português-A371F7?style=flat&logoColor=white"></a>
+  <a href="README.md"><img alt="Read in English" src="https://img.shields.io/badge/🇺🇸_English-2D333B?style=flat&logoColor=white"></a>
+</div>
+
 <div align="center"> 
 
 # Olá, eu sou o Kauã Pimentel! 👨🏻‍💻🌌 
